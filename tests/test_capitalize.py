@@ -1,4 +1,4 @@
-from package-name/capitalize import capitalize
+from package-name.capitalize import capitalize
 
 if capitalize('hello') != 'Hello':
     raise Exception('Функция работает неверно!')
